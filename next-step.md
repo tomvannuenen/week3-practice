@@ -1,1 +1,1 @@
-Next step: choose a data source.
+Next step: check the data license.
